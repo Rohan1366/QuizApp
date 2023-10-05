@@ -64,6 +64,8 @@ button {
 
 button:hover {
     background-color: #0056b3;
+    transform: translateY(-3px);
+    transition: transform 0.5s;
 }
 
 #result {
