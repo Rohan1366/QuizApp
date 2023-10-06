@@ -13,7 +13,7 @@ A simple interactive quiz web application built using HTML, CSS, and JavaScript.
  
 ## Demo
 
-You can see a live demo of the quiz here: [Demo Link](#)
+You can see a live demo of the quiz here: [Demo Link](https://quiz1366.netlify.app/)
 
 ## Features
 
