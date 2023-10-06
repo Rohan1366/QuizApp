@@ -45,7 +45,7 @@ restartButton.addEventListener("click", () => {
     score = 0;
     displayQuestion();
     resultElement.textContent = "";
-    scoreElement.textContent = "Score: 0";
+    scoreElement.textContent = "";
     timerElement.textContent = "";
     submitButton.disabled = false;
     nextButton.style.display = "none";
