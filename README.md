@@ -37,9 +37,4 @@ Follow these instructions to set up and run the quiz locally on your machine.
 
 You need a web browser to run this quiz application.
 
-### Installation
 
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/interactive-quiz.git
