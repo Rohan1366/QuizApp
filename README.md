@@ -10,13 +10,7 @@ A simple interactive quiz web application built using HTML, CSS, and JavaScript.
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
+ 
 ## Demo
 
 You can see a live demo of the quiz here: [Demo Link](#)
