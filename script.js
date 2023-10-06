@@ -79,7 +79,7 @@ function startTimer() {
 
         if (timeLeft === 0) {
             clearInterval(timer);
-            checkAnswer();
+            nextQuestion()
         }
     }, 1000);
 }
