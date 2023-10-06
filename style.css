@@ -121,10 +121,10 @@ button:hover {
 /* Apply fade-in animation to the question and options */
 .question-container,
 #options li {
-    animation: fadeIn 1s ease-in-out;
+    animation: fadeIn 1.5s ease-in-out;
 }
 
 /* Apply fade-out animation to the result message */
 #result {
-    animation: fadeOut 1s ease-in-out;
+    animation: fadeOut 1.5s ease-in-out;
 }

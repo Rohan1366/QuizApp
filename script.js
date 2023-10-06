@@ -5,13 +5,13 @@ const questions = [
         answer: "A"
     },
     {
-        question: "Which planet is known as the 'Red Planet'?",
-        options: ["Earth", "Mars", "Venus", "Jupiter"],
+        question: "Which attribute must have a unique value each time it is used in an HTML document?",
+        options: ["Title", "Id", "Class", "Div"],
         answer: "B"
     },
     {
-        question: "What is the capital of France?",
-        options: ["Berlin", "Madrid", "Rome", "Paris"],
+        question: "Variables declared with the let keyword have what type of scope?",
+        options: ["function scope", "global scope", "inline scope", "block scope"],
         answer: "D"
     },
     {
@@ -72,7 +72,7 @@ function displayQuestion() {
 function startTimer() {
     let timeLeft = timeLimit;
     timerElement.textContent = `Time Left: ${timeLeft} seconds`;
-
+     timerElement.style.color="red"
     timer = setInterval(() => {
         timeLeft--;
         timerElement.textContent = `Time Left: ${timeLeft} seconds`;
