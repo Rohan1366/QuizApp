@@ -2,8 +2,8 @@
 
 A simple interactive quiz web application built using HTML, CSS, and JavaScript.
 
-![Quiz Screenshot](img.png)
-
+![Quiz Screenshot](./images/img.png)
+![Quiz Screenshot](./images/img2.png)
 ## Table of Contents
 
 - [Demo](#demo)
